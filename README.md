@@ -11,7 +11,8 @@ senha: salzin
 
 2 cd SCLOWN-DDOS
 
-3 Instale os requisitos pip install -r requirements.txt
+3 Instale os requisitos: 
+pip install -r requirements.txt
 
 TERMUX: 
 pkg update && pkg upgrade &&
