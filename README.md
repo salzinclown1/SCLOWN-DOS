@@ -1,13 +1,14 @@
 # SCLOWN-DDOS
 SCLOWN-DDOS é uma ferramenta Python para testes de carga web com requisições assíncronas, User-Agents e proxies rotativos, controle de RPS e workers. Inclui logs detalhados e interface CLI com banner ASCII. ⚠️ Use apenas em servidores com permissão explícita.
 
-clone o repositório git: https://github.com/salzinclown1/SCLOWN-DDOS.git
+1 clone o repositório git clone: https://github.com/salzinclown1/SCLOWN-DDOS.git
 
-cd SCLOWN-DDOS
+2 cd SCLOWN-DDOS
 
-Instale os requisitos pip install -r requirements.txt
+3 Instale os requisitos pip install -r requirements.txt
 
-TERMUX: pkg update && pkg upgrade &&
+TERMUX: 
+pkg update && pkg upgrade &&
 pkg install git python
 
 git clone https://github.com/salzinclown1/SCLOWN-DDOS.git
