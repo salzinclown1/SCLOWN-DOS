@@ -11,7 +11,7 @@ Senha: salzin
 ## Instalação e execução
 git clone https://github.com/salzinclown1/SCLOWN-DDOS.git
 
-cd SCLOWN-DDOS
+cd SCLOWN-DoS
 
 pip install -r requirements.txt
 
@@ -35,7 +35,7 @@ sudo apt update && sudo apt upgrade
 
 sudo apt install git python3 python3-pip
 
-git clone https://github.com/salzinclown1/SCLOWN-DDOS.git
+git clone https://github.com/salzinclown1/SCLOWN-DoS.git
 
 cd SCLOWN-DDOS
 
