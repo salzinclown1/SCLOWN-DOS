@@ -12,8 +12,8 @@ GREEN = "\033[32m"
 RESET = "\033[0m"
 
 # ================= CONFIG =================
-USER_AGENT_FILE = "user-agent.txt"
-PROXY_FILE = "proxies.txt"
+USER_AGENT_FILE = "data/user-agent.txt"
+PROXY_FILE = "data/proxies.txt"
 TIMEOUT = 15
 
 # ================= ASCII =================
